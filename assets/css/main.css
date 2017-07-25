@@ -1,33 +1,37 @@
-*{
-	margin:0;
-	padding:0;
+/*diseño ejercicio 1*/
+#ex1{
+margin:0;
+padding:0;
+display: block;
 }
 
-/*diseño ejercicio 1*/
 div{
-	display: block;
 	height: 100px;
 }
 
 #caja1, #caja3{
+	margin-top: -16px;
 	background-color: yellow;
 }
 
 #caja2{
+	margin-top: -16px;
 	background-color:#EE0A56;
 }
 
 /*diseño ejercicio 2*/
 
-div{
+#ex2{
 	display: block;
-	height: 100px;
+	width: 500px;
 }
 
-#caja1, #caja3{
+#caja4, #caja6{
 	background-color: yellow;
 }
 
-#caja2{
+#caja5{
 	background-color:#EE0A56;
 }
+
+/*diseño ejercicio 2*/
