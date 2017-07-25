@@ -67,3 +67,73 @@ display: block;
 	width: 150px;
 	display: inline-block;
 }
+
+/*diseño ejercicio 5*/
+
+.rect{
+	width: 400px;
+	height: 120px;
+	margin:10px;
+}
+
+#box1{
+	background-color: #4CDBEF;
+	display: block;
+	width: 100px;
+	height: 100px;
+	margin:10px;
+}
+
+#box2{
+	background-color:#2ED7A1;
+	display: block;
+
+}
+
+#box3{
+	background-color:#8561D4;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin:10px;
+}
+
+#box4{
+	background-color:#AC25BF;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin:10px;
+}
+
+#box5{
+	background-color:#EF3A76;
+	display: block;
+	width: 100px;
+	height: 100px;
+	margin:10px;
+}
+
+#box21{
+	background-color:#DAF7A6;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin:10px;
+}
+
+#box22{
+	background-color:#2ED761;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin:10px;
+}
+
+#box23{
+	background-color:#88D72E;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin:10px;
+}
