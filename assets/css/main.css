@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+/*diseño ejercicio 1*/
+div{
+	display: block;
+	height: 100px;
+}
+
+#caja1, #caja3{
+	background-color: yellow;
+}
+
+#caja2{
+	background-color:#EE0A56;
+}
+
+/*diseño ejercicio 2*/
+
+div{
+	display: block;
+	height: 100px;
+}
+
+#caja1, #caja3{
+	background-color: yellow;
+}
+
+#caja2{
+	background-color:#EE0A56;
+}
