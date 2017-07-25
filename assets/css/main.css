@@ -5,18 +5,16 @@ padding:0;
 display: block;
 }
 
-div{
-	height: 100px;
-}
-
 #caja1, #caja3{
 	margin-top: -16px;
 	background-color: yellow;
+	height: 100px;
 }
 
 #caja2{
 	margin-top: -16px;
 	background-color:#EE0A56;
+	height: 100px;
 }
 
 /*diseño ejercicio 2*/
@@ -28,10 +26,44 @@ div{
 
 #caja4, #caja6{
 	background-color: yellow;
+	margin:10px;
+	height: 100px;
 }
 
 #caja5{
 	background-color:#EE0A56;
+	margin:10px;
+	height: 100px;
 }
 
-/*diseño ejercicio 2*/
+/*diseño ejercicio 3*/
+
+#caja7, #caja9{
+	background-color: yellow;
+	margin:10px;
+	width: 150px;
+	display: inline-block;
+}
+
+#caja8{
+	background-color:#EE0A56;
+	margin:10px;
+	width: 50px;
+	display: inline-block;
+}
+
+/*diseño ejercicio 4*/
+
+#caja10, #caja12{
+	background-color: yellow;
+	margin:5px;
+	width: 200px;
+	display: inline-block;
+}
+
+#caja11{
+	background-color:#EE0A56;
+	margin:5px;
+	width: 150px;
+	display: inline-block;
+}
